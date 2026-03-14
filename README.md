@@ -1,12 +1,15 @@
 ## 📊 Data-Driven_Supply_&_Chain_Sales_Analysis
 
 
+
 ## 📊 Project Overview
 This project analyzes a company's sales data across customers, markets, products, and transactions to generate actionable business insights.
 
 Using SQL for data exploration and Power BI for interactive dashboards, the project identifies revenue trends, high-performing markets, customer distribution, and product performance.
 
 The goal is to simulate a real-world business intelligence scenario where raw sales data is transformed into data-driven insights for decision making.
+
+
 
 
 ## 🎯Business Problem
@@ -16,6 +19,8 @@ The goal is to simulate a real-world business intelligence scenario where raw sa
 - How sales trends change over time
 
 This project solves these challenges by building a complete data analysis pipeline from raw database queries to a visual analytics dashboard.
+
+
 
 
 ## 📌 Project Steps
@@ -41,7 +46,9 @@ This project solves these challenges by building a complete data analysis pipeli
 10. Project Documentation and GitHub Upload
 
 
-## Tools Used
+
+
+## 🛠️ Tools Used
 - SQL
 - MySQL
 - Power BI
@@ -49,7 +56,8 @@ This project solves these challenges by building a complete data analysis pipeli
 - GitHub 
    
 
-## Key Metrics
+
+## 📊 Key Metrics
 - Total Revenue
 - Revenue by Market
 - Revenue Trend Over Time
@@ -59,6 +67,8 @@ This project solves these challenges by building a complete data analysis pipeli
 - Sales by Currency
 - Market-wise Sales Performance
 - Product-wise Revenue Contribution
+
+
 
 ## 📈Power BI Dashboard
 
@@ -70,6 +80,9 @@ Key Dashboard KPIs:
 📦 Sales by Product
 📊 Revenue Trend Over Time
 👥 Customer Segmentation
+
+
+
 ## 📊 Insights
 
 Highest revenue is generated from a few key markets.
@@ -78,6 +91,7 @@ Sales performance varies across different regions.
 Customer segments show different purchasing patterns.
 Some transactions contain invalid or negative sales values.
 Revenue trends indicate fluctuations across different time periods.
+
 
 ## Dashboard Preview
 
