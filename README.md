@@ -81,4 +81,11 @@ Revenue trends indicate fluctuations across different time periods.
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+## Key Insights
+![Dashboard](Dashboard1.png)
+
+## Profit Analysis
+![Dashboard](Dashboard2.png)
+
+## Performance Insights
+![Dashboard](Dashboard3.png)
